@@ -21,10 +21,10 @@ body {
 }
 .display-1 {
   font-family: 'Rubik', sans-serif;
-  font-size: 10rem;
+  font-size: 4rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 16rem;
+  font-size: 6.4rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -61,9 +61,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 8rem;
-    font-size: calc( 4.1499999999999995rem + (10 - 4.1499999999999995) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (4.1499999999999995rem + (10 - 4.1499999999999995) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.2rem;
+    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1440,13 +1440,17 @@ body {
 }
 .cid-qI6jUD3AqI H1 {
   color: #232323;
+  text-align: center;
 }
 .cid-qI6jUD3AqI I {
-  color: #12bb40;
+  color: #0a1375;
 }
 .cid-qI6jUD3AqI .mbr-text,
 .cid-qI6jUD3AqI .mbr-section-btn {
   color: #000000;
+}
+.cid-qI6jUD3AqI B {
+  color: #0a1375;
 }
 .cid-qI5Zm22PN8 .navbar {
   padding: .5rem 0;
