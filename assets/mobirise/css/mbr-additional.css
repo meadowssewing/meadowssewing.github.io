@@ -1448,9 +1448,14 @@ body {
 .cid-qI6jUD3AqI .mbr-text,
 .cid-qI6jUD3AqI .mbr-section-btn {
   color: #000000;
+  text-align: center;
 }
 .cid-qI6jUD3AqI B {
   color: #0a1375;
+}
+.cid-qI6jUD3AqI .mbr-text,
+.cid-qI6jUD3AqI .mbr-section-btn B {
+  color: #ff7ffc;
 }
 .cid-qI5Zm22PN8 .navbar {
   padding: .5rem 0;
