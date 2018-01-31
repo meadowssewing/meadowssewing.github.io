@@ -1,5 +1,5 @@
 # meadowssewing.github.io
-Meadows Sewing School Bangalore Phone: +91 827 710 7384/ +91 974 224 0792
+Meadows Sewing School Bangalore
 
 Visit us:
 https://www.facebook.com/MeadowsSewingSchool
