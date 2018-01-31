@@ -4,7 +4,7 @@ Meadows Sewing School Bangalore
 Visit us:
 https://www.facebook.com/MeadowsSewingSchool
 
-Address
+Address:
 No 71/1A, 1st Floor, Shop No – 6,
 Lingappa Reddy Complex,
 Kaikondarahalli, (Opp. St Peters School),
